@@ -1,21 +1,5 @@
 
 
-header{
-   height: 100vh;
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   h1{
-      font-family: garamond;
-      font-weight: 200;
-      font-size: 100px;
-      color: black;
-      &:hover{
-         color: white;
-      }
-   }
-}
-
 .blog{
    background: red;
    height: 50vh;
