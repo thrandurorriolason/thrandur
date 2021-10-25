@@ -21,4 +21,96 @@ header h1 {
 header h1:hover {
   color: white;
 }
+
+.blog {
+  background: red;
+  height: 50vh;
+  width: 50%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.blog h2 {
+  color: red;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: helvetica;
+}
+
+.shop {
+  background: blue;
+  height: 50vh;
+  width: 50%;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.shop h2 {
+  color: blue;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: helvetica;
+}
+
+.work {
+  background: green;
+  height: 50vh;
+  width: 50%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.work h2 {
+  color: green;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: helvetica;
+}
+
+.info {
+  background: yellow;
+  height: 50vh;
+  width: 50%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.info h2 {
+  color: yellow;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: helvetica;
+}
 /*# sourceMappingURL=style.css.map */
