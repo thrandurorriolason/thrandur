@@ -2,6 +2,7 @@
 
 .blog{
    background: red;
+   &:hover { background: white}
    height: 50vh;
    width: 100% - 50%;
    position: absolute;
@@ -20,6 +21,7 @@
 
 .shop{
    background: blue;
+   &:hover { background: white}
    height: 50vh;
    width: 50%;
    position: absolute;
@@ -38,6 +40,7 @@
 
 .work{
    background: green;
+   &:hover { background: white}
    height: 50vh;
    width: 50%;
    position: absolute;
@@ -56,6 +59,7 @@
 
 .info{
    background: yellow;
+   &:hover { background: white}
    height: 50vh;
    width: 50%;
    position: absolute;
